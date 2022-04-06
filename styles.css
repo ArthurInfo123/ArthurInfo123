@@ -1,0 +1,15 @@
+body {
+    background-color: rgba(207, 86, 86, 0.822); 
+    
+}
+
+div#res{
+    float: right;
+    width: 50%;
+}
+
+table , tr#corpo,  th, td
+{
+    border: 1px solid black;
+
+}
