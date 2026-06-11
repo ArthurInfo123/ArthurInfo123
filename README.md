@@ -1,13 +1,8 @@
-# Hey there 👋
+Olá, meu nome é Arthur Trevisan
 
-About...
-
-* 🔭 I'm always looking for knowledge and new challenges.
-* ⚡ I'm sure that I can perform the tasks that were passed to me with excellence.
-* 💬 I'm graduated in System Development and Analysis and I've experience in IT Assistant, Support Analyst and IT Analyst.
-
-Areas of Interest...
-
+* 🔭 I'm a Web Developer focused on building robust applications with **Laravel** and **React**.
+* ⚡ I also have practical and academic knowledge in **C**, **Java**, and **Dart (Flutter)**.
+* 
 <div id="badges">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -27,5 +22,5 @@ Database Knowledge...
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </div>
 
-## 🔗 My Linkedin
+## 🔗 Linkedin
 [Insira o link do seu perfil aqui](https://linkedin.com/in/arthur-trevisan-618367299)
